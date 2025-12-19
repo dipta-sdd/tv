@@ -1,0 +1,5 @@
+{
+  "name": "BagaBaga Tv",
+  "description": "A high-performance, aesthetically pleasing IPTV streaming application for Hindi language channels, featuring real-time search, category filtering, and HLS playback support.",
+  "requestFramePermissions": []
+}
