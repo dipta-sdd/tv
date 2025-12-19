@@ -14,6 +14,10 @@ export default defineConfig({
         short_name: 'BagaBaga',
         description: 'Stream Live IPTV Channels',
         theme_color: '#0f172a',
+        background_color: '#0f172a',
+        display: 'standalone',
+        scope: '.',
+        start_url: '.',
         icons: [
           {
             src: 'pwa-192x192.png',
